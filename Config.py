@@ -17,13 +17,13 @@ if ENVIRONMENT:
         MUST_JOIN = MUST_JOIN.replace("@", "")
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_ID = "13347879"
+    API_HASH = "241f2ef7f35ce132fc849eb9964f4b10"
+    BOT_TOKEN = "5114672990:AAFpOMbq9B6FD3Icwe2YPXJwBjz9inapblM"
+    DATABASE_URL = "postgresql://ecvcveyr:AALEuRK1daNipxraQzSxxWzDiO79rJPb@abul.db.elephantsql.com/ecvcveyr"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
-    MUST_JOIN = ""
+    MUST_JOIN = "@Starz_bots"
     if MUST_JOIN.startswith("@"):
         MUST_JOIN = MUST_JOIN[1:]
 
-       #✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!
+       #✗ Pᴏᴡᴇʀᴇᴅ 💕 By Rockstar
