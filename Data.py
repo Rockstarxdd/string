@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [Tᴇᴀᴍ DᴇCᴏᴅᴇ!](https://t.me/DeeCodeBots)
+✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [Starz bots!](https://t.me/starz_Bots)
     """
 
     # Home Button
@@ -33,12 +33,12 @@ You can use me to generate pyrogram and telethon string session. Use below butto
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🎉 Start Generating Session 🎉", callback_data="generate")],
-        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/DeeCodeBots/32")],
+        [InlineKeyboardButton("💕 Bot Status and More Bots 💕", url="https://t.me/starz_bots/2")],
         [
             InlineKeyboardButton("How to Use 🤭❔", callback_data="help"),
             InlineKeyboardButton("😏 About 😏", callback_data="about")
         ],
-        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/DeeCodeBots")],
+        [InlineKeyboardButton("🥱 More Amazing bots 🥱", url="https://t.me/Starz_Bots")],
     ]
 
     # Help Message
@@ -59,11 +59,11 @@ You can use me to generate pyrogram and telethon string session. Use below butto
 
 A telegram bot to Manage group and generate pyrogram and telethon string session by @TeamDeeCode
 
-Source Code : [Click Here](https://github.com/AMANTYA1/String_gen)
+Owner : [Click Here](https:t.me/rockstar_xdd)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @TeamDeeCode
+Developer : @Starz_bots
     """
